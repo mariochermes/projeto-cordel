@@ -60,7 +60,7 @@ section {
 
 section.com-img {
     background: url('../imagens/background001.jpg') no-repeat fixed center center;
-    background-size: contain;
+    background-size: cover;
 }
 
 section > p {
